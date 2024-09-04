@@ -19,6 +19,10 @@ body {
   background-size: cover;
   background-position: center;
 }
+.mb-5 > .btn{
+  border-color: rgba(255, 255, 255, .55);
+  
+}
 
 /* Contacto */
 
