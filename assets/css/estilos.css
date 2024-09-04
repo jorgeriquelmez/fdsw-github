@@ -18,13 +18,20 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-}
-.mb-5 > .btn{
-  border-color: rgba(255, 255, 255, .55);
   
 }
 
-/* Contacto */
+.mb-5 > .btn{
+  border-color: rgba(255, 255, 255, .55);
+}
+.card-body >.btn{
+  border-color: rgba(169, 167, 167, 0.792);
+  color: rgba(169, 167, 167, 0.792);
+}
+.my-3 > .btn{
+  border-color: rgba(169, 167, 167, 0.792);
+}
+  /* Contacto */
 
 #Contacto form label {
   font-weight: 700;
